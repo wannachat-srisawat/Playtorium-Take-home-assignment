@@ -1,0 +1,16 @@
+{
+    "items": [
+      { "name": "Tablet", "category": "Electronics", "price": 2000 }
+    ],
+    "discounts": [
+      {
+        "category": "On Top",
+        "campaigns": {
+          "name": "Discount by points",
+          "parameters": {
+            "CustomerPoints": 600
+          }
+        }
+      }
+    ]
+  }

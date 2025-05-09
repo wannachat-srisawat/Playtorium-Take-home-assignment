@@ -1,0 +1,17 @@
+{
+  "items": [
+    { "name": "T-Shirt", "category": "Clothing", "price": 300 },
+    { "name": "Hat", "category": "Accessories", "price": 200 }
+  ],
+  "discounts": [
+    {
+      "category": "Coupon",
+      "campaigns": {
+        "name": "Fixed Amount",
+        "parameters": {
+          "Amount": 50
+        }
+      }
+    }
+  ]
+}

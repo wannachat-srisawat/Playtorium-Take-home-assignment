@@ -1,0 +1,18 @@
+{
+    "items": [
+      { "name": "Book", "category": "Stationary", "price": 120 },
+      { "name": "Notebook", "category": "Stationary", "price": 180 }
+    ],
+    "discounts": [
+      {
+        "category": "Seasonal",
+        "campaigns": {
+          "name": "Seasonal",
+          "parameters": {
+            "Every": 200,
+            "Discount": 50
+          }
+        }
+      }
+    ]
+  }

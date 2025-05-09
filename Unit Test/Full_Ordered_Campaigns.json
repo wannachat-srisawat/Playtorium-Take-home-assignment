@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "name": "Hoodie",
+      "category": "Clothing",
+      "price": 1000
+    },
+    {
+      "name": "Belt",
+      "category": "Accessories",
+      "price": 500
+    },
+    {
+      "name": "Powerbank",
+      "category": "Electronics",
+      "price": 500
+    }
+  ],
+  "discounts": [
+    {
+      "category": "Coupon",
+      "campaigns": {
+        "name": "Percentage discount",
+        "parameters": {
+          "Percentage": 10
+        }
+      }
+    },
+    {
+      "category": "On Top",
+      "campaigns": {
+        "name": "Discount by points",
+        "parameters": {
+          "CustomerPoints": 200
+        }
+      }
+    },
+    {
+      "category": "Seasonal",
+      "campaigns": {
+        "name": "Seasonal",
+        "parameters": {
+          "Every": 300,
+          "Discount": 30
+        }
+      }
+    }
+  ]
+}

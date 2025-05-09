@@ -1,0 +1,16 @@
+{
+    "items": [
+      { "name": "Phone Case", "category": "Accessories", "price": 400 }
+    ],
+    "discounts": [
+      {
+        "category": "On Top",
+        "campaigns": {
+          "name": "Discount by points",
+          "parameters": {
+            "CustomerPoints": 50
+          }
+        }
+      }
+    ]
+  }

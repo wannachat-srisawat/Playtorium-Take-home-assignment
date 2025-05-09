@@ -1,0 +1,19 @@
+{
+    "items": [
+      { "name": "Bag", "category": "Accessories", "price": 600 },
+      { "name": "Belt", "category": "Accessories", "price": 400 },
+      { "name": "T-Shirt", "category": "Clothing", "price": 500 }
+    ],
+    "discounts": [
+      {
+        "category": "On Top",
+        "campaigns": {
+          "name": "Percentage discount by item category",
+          "parameters": {
+            "Category": "Accessories",
+            "Amount": 20
+          }
+        }
+      }
+    ]
+  }

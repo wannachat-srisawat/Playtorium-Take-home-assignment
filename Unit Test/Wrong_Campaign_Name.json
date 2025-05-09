@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Shoes", "category": "Clothing", "price": 1000 }
+  ],
+  "discounts": [
+    {
+      "category": "Coupon",
+      "campaigns": {
+        "name": "Unknown Coupon",
+        "parameters": {}
+      }
+    }
+  ]
+}
